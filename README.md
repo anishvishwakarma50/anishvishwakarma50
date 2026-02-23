@@ -1,105 +1,115 @@
-# 👋 Anish Vishwakarma
+[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](#)
 
-**Freelancer • Full-Stack Engineer (Backend-leaning)**  
-Building production-grade web systems with **Laravel, MERN, and ASP.NET Web API**.  
-Focused on APIs, dashboards, automation-first products, and clean, scalable architecture.
+<h1 align="center">Hi 👋, I'm Anish Vishwakarma</h1>
+<h3 align="center">Freelancer • Full-Stack Engineer (Backend-Focused) from India 🇮🇳</h3>
 
-📍 Mumbai, India
+<p align="center">
+  Building production-grade web systems with Laravel, MERN & ASP.NET Web API
+</p>
 
----
-
-## 🔧 Tech Stack
-
-**Frontend**
-- HTML, CSS, JavaScript
-- React (Vite), Tailwind CSS
-
-**Backend**
-- PHP (Core, Laravel)
-- Node.js, Express
-- ASP.NET Web API
-
-**Databases**
-- MySQL, SQL Server, MongoDB
-
-**Tooling & Platform**
-- Git & GitHub, Postman, Swagger
-- Prisma ORM, npm, Vite
-- SEO / AEO / GEO, Schema Markup, AI Integrations
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anishvishwakarma50&label=Profile%20views&color=0e75b6&style=flat" alt="anishvishwakarma50" />
+</p>
 
 ---
 
-## 🧠 Engineering Focus
-
-- RESTful APIs, JWT Authentication, Role-Based Access Control  
-- Scalable CRUD systems, File Uploads, Pagination, CMS Workflows  
-- Database Design, Migrations, Performance Optimization  
-- SEO-first systems, Clean URLs, Automation & Integration Pipelines  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Supertech Ultrasonics — Business Web Platform *(In Progress)*
-- **What:** Admin + CMS for Products, Industries, Leads & Inquiries  
-- **Tech:** Laravel, MySQL  
-- **Highlights:** CRUD, file uploads, pagination, authentication, content workflows  
-
-### 🔹 Library Management System — API + Frontend
-- **What:** Student/Librarian roles, Book CRUD, Issue/Return system  
-- **Tech:** ASP.NET Web API, SQL Server, React (Vite)  
-- **Highlights:** JWT auth, role-based access, Swagger-tested APIs  
-
-### 🔹 Shopify Embedded Apps — *Sink* & *Easify*
-- **What:** Advanced product customization beyond native variants  
-- **Tech:** Shopify, HTML, CSS, JavaScript, JSON, Liquid, Prisma  
-- **Highlights:** Dynamic admin UIs, storefront integrations, SEO/AEO/GEO, schema markup, AI features  
-
-### 🔹 AdminAdda — SEO Blogging Platform
-- **What:** Custom CMS with full admin control  
-- **Tech:** Core PHP, MySQL  
-- **Highlights:** Full CRUD, RBAC, clean URLs, SEO optimization  
+- 🔭 Currently working on **Business & SaaS Web Platforms**
+- 🌱 Improving my skills in **Backend, APIs, System Design & Scalable Architectures**
+- 💬 Ask me about **Laravel, PHP, MERN, ASP.NET Web API, SQL, REST APIs**
+- 📫 How to reach me: **vishwakarmaanish50@gmail.com**
+- 🎯 Goal: **Strong Backend / Full-Stack Engineer**
 
 ---
 
-## 🏢 Experience
-
-**Being Ambitious** — *MERN Developer (Full-Stack)*  
-**Dec 2025 – Present**  
-- Worked on Shopify embedded apps (*Sink*, *Easify*) for advanced product customization  
-- Built dynamic admin interfaces and storefront integrations  
-- Stack: Shopify, HTML, CSS, JavaScript, JSON, Liquid, Prisma  
-- Implemented SEO, AEO, GEO, Schema Markup, and AI-driven features  
-
-**Blinke Technologies** — *Freelancer*  
-**Jul 2023 – Oct 2024**  
-- Developed **adminadda.com**, an SEO-first blogging platform  
-- Built customizable admin panel, full CRUD, RBAC, and clean URL structure  
-- Stack: Core PHP, MySQL  
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anish-vishwakarma-443a47263/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
-## 🎯 Current Goals
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
 
-- Grow as a **Full-Stack Engineer** with a strong **Backend** focus  
-- Build **scalable APIs**, automation-heavy systems, and SaaS backends  
-- Improve architecture design, performance, and security practices  
+<a href="https://www.php.net" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</a>
+
+<a href="https://laravel.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://postman.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+<a href="https://swagger.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats:</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishvishwakarma50&show_icons=true&theme=radical)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishvishwakarma50&layout=compact&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishvishwakarma50&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/anish-vishwakarma-443a47263/
-- 📧 Email: vishwakarmaanish50@gmail.com
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishvishwakarma50&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-⭐ If you like clean backends, scalable APIs, and real-world systems — feel free to explore my repositories!
+<h3 align="left">🚀 What I Build</h3>
+
+- Business Web Platforms (Laravel, PHP, MySQL)
+- REST APIs (ASP.NET Web API, Node.js, Express)
+- Admin Dashboards & CMS Systems
+- Auth Systems (JWT, Roles, Permissions)
+- SEO-First & Scalable Web Apps
+- Shopify Embedded Apps (Customization, Admin UI, Storefront Integration)
+
+---
+
+⭐ If you like backend-heavy, real-world systems — feel free to explore my repositories!
