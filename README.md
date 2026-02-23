@@ -1,4 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif))](#)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="MasterHead" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Anish Vishwakarma</h1>
 <h3 align="center">Freelancer • Full-Stack Engineer (Backend-Focused) from India 🇮🇳</h3>
