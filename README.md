@@ -1,4 +1,4 @@
-[![MasterHead]([https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif))](#)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif))](#)
 
 <h1 align="center">Hi 👋, I'm Anish Vishwakarma</h1>
 <h3 align="center">Freelancer • Full-Stack Engineer (Backend-Focused) from India 🇮🇳</h3>
